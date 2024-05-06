@@ -1,0 +1,37 @@
+[gd_scene load_steps=3 format=3 uid="uid://4pp80cdv41bh"]
+
+[ext_resource type="Script" path="res://scenes/templates/Combat.gd" id="1_kfpvl"]
+[ext_resource type="Script" path="res://scenes/templates/player_combatant_group.gd" id="2_rtiwx"]
+
+[node name="Level" type="Node2D"]
+
+[node name="Services" type="Node2D" parent="."]
+script = ExtResource("1_kfpvl")
+
+[node name="Environment" type="Node2D" parent="."]
+
+[node name="TileMap" type="TileMap" parent="Environment"]
+format = 2
+
+[node name="Misc" type="Node2D" parent="Environment"]
+
+[node name="Non-unit" type="Node2D" parent="Environment"]
+
+[node name="Combatants" type="Node2D" parent="."]
+
+[node name="Player-Combatant-Group" type="Node2D" parent="Combatants"]
+script = ExtResource("2_rtiwx")
+
+[node name="player" type="Sprite2D" parent="Combatants/Player-Combatant-Group"]
+
+[node name="ally1" type="Sprite2D" parent="Combatants/Player-Combatant-Group"]
+
+[node name="ally2" type="Sprite2D" parent="Combatants/Player-Combatant-Group"]
+
+[node name="ally3" type="Sprite2D" parent="Combatants/Player-Combatant-Group"]
+
+[node name="Enemy-Combatant-Group" type="Node2D" parent="Combatants"]
+
+[node name="enemy1" type="Sprite2D" parent="Combatants/Enemy-Combatant-Group"]
+
+[node name="UI" type="Node2D" parent="."]
