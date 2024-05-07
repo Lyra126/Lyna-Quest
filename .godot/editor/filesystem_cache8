@@ -1,16 +1,20 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1715053369
-hitbox.gd::GDScript::-1::1715021750::0::1::::hitbox_component<>Area2D<>::
+::res://::1715055287
 icon.svg::CompressedTexture2D::5845866957401869412::1715018761::1715041530::1::::<><>::
 README.md::TextFile::-1::1715022527::0::1::::<><>::
-::res://assets/::1715049371
-collision.png::CompressedTexture2D::7808258719175301980::1643984778::1715049110::1::::<><>::
-tileset.png::CompressedTexture2D::5301191395784095295::1644636340::1715049110::1::::<><>::
-tileset.tres::::-1::1644636340::0::1::::<><>::
+::res://assets/::1715055875
+Chris Attack (One Hand Weapons).png::CompressedTexture2D::8830142143204235704::1709252556::1715055916::1::::<><>::
+Chris Idle.png::CompressedTexture2D::6512565220753487218::1709252744::1715055916::1::::<><>::
+Chris Minecart Character.png::CompressedTexture2D::8184727548926543437::1709252766::1715055916::1::::<><>::
+Chris Sword 01.png::CompressedTexture2D::6253017723292827456::1709252610::1715055916::1::::<><>::
+Chris Walk.png::CompressedTexture2D::5362972930222983615::1709252532::1715055916::1::::<><>::
+collision.png::CompressedTexture2D::4053105129130923645::1643984778::1715055916::1::::<><>::
+Solaria Demo Tiles.png::CompressedTexture2D::1152752729591782043::1709329344::1715055916::1::::<><>::
 ::res://assets/bg/::1715049098
 support.jpeg::CompressedTexture2D::7298444541878154600::1715019101::1715041532::1::::<><>::
 welcome_placeholder.jpeg::CompressedTexture2D::9066013194069855501::1715019101::1715041530::1::::<><>::
-::res://scenes/::1715022503
+::res://scenes/::1715055287
+hitbox.gd::GDScript::-1::1715021750::0::1::::hitbox_component<>Area2D<>::
 ::res://scenes/castle-bf/::1715050669
 castle_bf.tscn::PackedScene::6195383062951477942::1715050669::0::1::::<><>::uid://4pp80cdv41bh::::res://scenes/templates/bf-template.tscn
 ::res://scenes/templates/::1715041869

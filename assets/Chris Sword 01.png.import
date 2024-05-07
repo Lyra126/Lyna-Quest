@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bx0mbxadxj2sv"
-path="res://.godot/imported/collision.png-6d25e9baa1d3141a55208506688afe3d.ctex"
+uid="uid://cvdaj2klqyihs"
+path="res://.godot/imported/Chris Sword 01.png-33fa6594b09e437c4f4514613a285dc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/collision.png"
-dest_files=["res://.godot/imported/collision.png-6d25e9baa1d3141a55208506688afe3d.ctex"]
+source_file="res://assets/Chris Sword 01.png"
+dest_files=["res://.godot/imported/Chris Sword 01.png-33fa6594b09e437c4f4514613a285dc8.ctex"]
 
 [params]
 
